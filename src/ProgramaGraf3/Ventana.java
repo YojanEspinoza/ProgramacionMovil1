@@ -1,3 +1,4 @@
+//Espinoza Flores Yojan Gael
 package ProgramaGraf3;
 
 import java.awt.Color;

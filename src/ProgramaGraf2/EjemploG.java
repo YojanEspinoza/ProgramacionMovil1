@@ -1,4 +1,4 @@
-
+//Espinoza Flores Yojan Gael
 package ProgramaGraf2;
 
 import javax.swing.JButton;
