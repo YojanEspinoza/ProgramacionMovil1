@@ -1,6 +1,6 @@
-
-package TablaUsuarios;
 //Espinoza Flores Yojan Gael
+package TablaUsuarios;
+
 public class Usuario {
     private String nombre;
     private String correo;

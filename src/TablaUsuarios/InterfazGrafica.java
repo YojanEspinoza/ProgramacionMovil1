@@ -1,6 +1,6 @@
-
-package TablaUsuarios;
 //Espinoza Flores Yojan Gael
+package TablaUsuarios;
+
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
