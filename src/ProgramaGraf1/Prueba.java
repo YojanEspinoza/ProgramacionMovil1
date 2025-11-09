@@ -1,7 +1,6 @@
-
+//Espinoza Flores Yojan Gael
 package ProgramaGraf1;
 
-//Espinoza Flores Yojan Gael
 public class Prueba {
     public static void main(String []args){
         Manejador m = new Manejador();

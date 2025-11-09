@@ -1,12 +1,12 @@
-
-package ProgramaGraf5;
+//Espinoza Flores Yojan Gael
+package Galeria1;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.*;
-//Espinoza Flores Yojan Gael 
+
 public class Galeria extends JFrame implements ActionListener{
     JButton btnAdelante, btnAtras;
     JPanel panelbtn;

@@ -1,4 +1,5 @@
-package ProgramaGraf52;
+//Espinoza Flores Yojan Gael
+package Galeria2;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -11,7 +12,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
-//Espinoza Flores Yojan Gael
 public class Galeria2 extends JFrame{
     JButton btnAdelante, btnAtras;
     JPanel panelbtn;

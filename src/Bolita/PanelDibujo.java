@@ -1,6 +1,5 @@
-
-package ProgramaGraf4;
 //Espinoza Flores Yojan Gael
+package Bolita;
 
 import java.awt.Color;
 import java.awt.Graphics;

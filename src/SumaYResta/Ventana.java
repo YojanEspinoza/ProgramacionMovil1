@@ -1,5 +1,5 @@
 //Espinoza Flores Yojan Gael
-package ProgramaGraf3;
+package SumaYResta;
 
 import java.awt.Color;
 import java.awt.GridLayout;

@@ -1,5 +1,5 @@
 //Espinoza Flores Yojan Gael
-package ProgramaGraf3;
+package SumaYResta;
 
 public class Prueba {
     public static void main (String[]args){

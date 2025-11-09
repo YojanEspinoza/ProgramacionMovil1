@@ -1,6 +1,5 @@
-
-package ProgramaGraf1;
 //Espinoza Flores Yojan Gael
+package ProgramaGraf1;
 
 import javax.swing.JOptionPane;
 

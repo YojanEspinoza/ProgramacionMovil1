@@ -1,6 +1,5 @@
-
-package ProgramaGraf4;
 //Espinoza Flores Yojan Gael
+package Bolita;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;

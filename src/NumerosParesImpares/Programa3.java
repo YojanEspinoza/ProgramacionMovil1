@@ -1,5 +1,5 @@
 //Espinoza Flores Yojan Gael
-package Programa3;
+package NumerosParesImpares;
 
 import java.util.Scanner;
 

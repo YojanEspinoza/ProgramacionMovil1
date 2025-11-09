@@ -1,10 +1,6 @@
-
+//Espinoza Flores Yojan Gael
 package ProgramaGraf2;
 
-/**
- *
- * Espinoza Flores Yojan Gael
- */
 public class Prueba {
     public static void main(String[]args){
         EjemploG eg = new EjemploG();
